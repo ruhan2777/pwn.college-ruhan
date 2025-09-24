@@ -1,0 +1,30 @@
+# Challenge Name
+Position Yet Elsewhere
+
+## My solve
+**Flag:** `pwn.college{YIoSC5gDjslRX6JZkH0qHsetLVw.QX4QTN0wyN2kjNzEzW}`
+
+```bash
+Connected!
+hacker@paths~position-yet-elsewhere:~$ /challenge/run
+Incorrect...
+You are not currently in the /usr/aarch64-linux-gnu/include/gnu directory.
+Please use the `cd` utility to change directory appropriately.
+hacker@paths~position-yet-elsewhere:~$ cd /usr/aarch64-linux-gnu/include/gnu
+hacker@paths~position-yet-elsewhere:/usr/aarch64-linux-gnu/include/gnu$ /challenge/run
+Correct!!!
+/challenge/run is an absolute path, invoked from the right directory!
+Here is your flag:
+pwn.college{YIoSC5gDjslRX6JZkH0qHsetLVw.QX4QTN0wyN2kjNzEzW}
+hacker@paths~position-yet-elsewhere:/usr/aarch64-linux-gnu/include/gnu$
+
+
+```
+## Incorrect tangents I went on
+None
+
+## What I learned
+Learned how to access a program using absolute path that is in a different direcctory
+
+## References 
+No outside reference used
