@@ -2,14 +2,12 @@
 Reading Manuals
 
 ## My solve
-**Flag:** `pwn.college{wwwI8uSiw9iOQliLm3SUpMfuAS3.QX0EDO0wSOyMzNzEzW}`
+**Flag:** `pwn.college{gffNx3T-41LzHHJDy9e0boX0MK8.QX0EDO0wyN2kjNzEzW}`
 
 ```bash
-Connected!
 hacker@man~reading-manuals:~$ man challenge
-hacker@man~reading-manuals:~$ /challenge/challenge --wwwuiw 893
-Correct usage! Your flag: pwn.college{wwwI8uSiw9iOQliLm3SUpMfuAS3.QX0EDO0wSOyMzNzEzW}
-hacker@man~reading-manuals:~$
+hacker@man~reading-manuals:~$  /challenge/challenge --gffxzy 341
+Correct usage! Your flag: pwn.college{gffNx3T-41LzHHJDy9e0boX0MK8.QX0EDO0wyN2kjNzEzW}
 ```
 ## Incorrect tangents I went on
 None
